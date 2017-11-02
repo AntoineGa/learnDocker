@@ -8,7 +8,7 @@ https://github.com/docker/labs/blob/master/windows/windows-containers/Setup-Win1
 
 - Vidéos pour apprendre Docker
 
-  -- General intro
+  - General intro
   https://www.youtube.com/wratch?v=i7yoXqlg48M
 
   VS
