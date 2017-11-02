@@ -26,6 +26,9 @@ https://github.com/docker/labs/blob/master/windows/windows-containers/Setup-Win1
   - Docker, l'orchestration et au delà
   https://www.youtube.com/watch?v=tYgtDb0t908
   
+  - Cours sur Pluralsight
+  https://www.pluralsight.com/paths/docker
+  
 - Labs sur Docker
 
   - Commencer Docker on Windows
