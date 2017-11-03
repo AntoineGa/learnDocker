@@ -14,9 +14,6 @@ https://github.com/docker/labs/blob/master/windows/windows-containers/Setup-Win1
   - VS
   https://www.youtube.com/watch?v=pu5hA-BHUEw
   
-  - Web, .Net Core, Docker
-  https://www.youtube.com/watch?v=R8rkDFeDdoc  
-
   - MTA
   https://www.youtube.com/watch?v=BPMOqONNMNU
   
